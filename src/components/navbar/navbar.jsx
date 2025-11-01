@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { ShoppingCart, Heart, Menu } from "lucide-react";
-import "./Navbar.sass";
+import "./navbar.sass";
 import logo from "../../assets/logo.png";
 import Search from "../search/search";
 
