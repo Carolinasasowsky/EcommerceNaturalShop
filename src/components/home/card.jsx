@@ -1,5 +1,5 @@
 import React from "react";
-import "./Card.sass";
+import "./card.sass";
 
 export default function Card({ item }) {
 	return (

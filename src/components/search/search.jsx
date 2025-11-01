@@ -1,6 +1,6 @@
 import React from "react";
 import { Search as SearchIcon } from "lucide-react";
-import "./Search.sass";
+import "./search.sass";
 
 export default function Search({ placeholder }) {
 	return (
